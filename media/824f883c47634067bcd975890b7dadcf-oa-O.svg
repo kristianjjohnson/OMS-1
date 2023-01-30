@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1209" height="927">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  <g id="824f883c47634067bcd975890b7dadcf-oa-1">
+   <rect height="26.98413" width="212.69842" y="272.99997" x="951.31751" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="30.15873" width="196.8254" y="458.71426" x="737.03179" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="33.33333" width="119.04762" y="415.85712" x="468.77782" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="23.80952" width="117.46032" y="482.52379" x="559.25401" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="824f883c47634067bcd975890b7dadcf-oa-2">
+   <rect height="25.39683" width="161.90477" y="488.87299" x="986.23814" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="28.57143" width="161.90477" y="636.49204" x="816.39687" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="28.57143" width="92.06349" y="533.31744" x="598.93655" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="33.33333" width="106.34921" y="633.31744" x="591.00004" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="824f883c47634067bcd975890b7dadcf-oa-3">
+   <rect height="23.80952" width="168.25397" y="672.99998" x="879.88894" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="30.15873" width="131.74603" y="857.12697" x="452.9048" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="824f883c47634067bcd975890b7dadcf-oa-4">
+   <rect height="19.04762" width="117.46032" y="376.17458" x="570.36512" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <g>
+    <rect height="26.98413" width="212.69842" y="234.90473" x="740.20639" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="117.46032" width="207.93651" y="87.28568" x="389.41273" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="33.33333" width="146.03175" y="234.90473" x="494.17464" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="38.09524" width="119.04762" y="292.04759" x="554.4921" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1805.9999999999998" height="1020.0000000000001">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="5dd0d4ee4e184a09a5be1d36fc04d8d1-ao-1" y="884.68754" x="958.06258" stroke-width="0" fill="#000000">Right translation</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="5dd0d4ee4e184a09a5be1d36fc04d8d1-ao-2" y="955.00004" x="951.81258" stroke-width="0" fill="#000000">Left translation</text>
+  <rect id="5dd0d4ee4e184a09a5be1d36fc04d8d1-ao-3" height="39.0625" width="185.93751" y="858.12504" x="869.00008" stroke="#2D2D2D" fill="#000000"/>
+  <rect id="5dd0d4ee4e184a09a5be1d36fc04d8d1-ao-4" height="35.9375" width="179.68751" y="926.87504" x="862.75008" stroke="#2D2D2D" fill="#000000"/>
+ </g>
+</svg>
