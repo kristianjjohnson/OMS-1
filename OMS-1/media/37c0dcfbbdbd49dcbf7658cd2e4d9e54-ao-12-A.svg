@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1444" height="794">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-1" height="36.36364" width="163.63637" y="142.36368" x="485.54549" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-2" height="61.36364" width="200.00001" y="203.72731" x="546.90913" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-3" height="70.45455" width="186.36364" y="333.27277" x="585.5455" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-4" height="43.18182" width="204.54546" y="631.00006" x="556.00004" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect stroke="#2D2D2D" id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-5" height="59.09091" width="200.00001" y="124.18186" x="815.09096" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-6" height="59.09091" width="202.27274" y="196.90913" x="810.54551" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-7" height="115.9091" width="240.9091" y="269.63641" x="817.36369" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-8" height="52.27273" width="236.36365" y="394.63641" x="821.90915" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-9" height="43.18182" width="236.36365" y="460.54551" x="824.18187" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-10" height="75" width="293.18183" y="517.36369" x="819.63642" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="37c0dcfbbdbd49dcbf7658cd2e4d9e54-ao-11" height="90.90909" width="288.63638" y="606.00006" x="819.63642" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#aaffff"/>
+  
+ </g>
+</svg>

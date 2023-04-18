@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1318" height="1017">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="4bc67f9cd7bf430585c9b60da7e10722-ao-1" height="59.25926" width="164.81482" y="165.53969" x="140.46567" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="4bc67f9cd7bf430585c9b60da7e10722-ao-2" height="51.85185" width="324.07409" y="165.53969" x="392.31753" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="4bc67f9cd7bf430585c9b60da7e10722-ao-3" height="92.5926" width="107.40741" y="589.61378" x="8.98418" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <g id="4bc67f9cd7bf430585c9b60da7e10722-ao-4">
+   <g>
+    <rect height="92.5926" width="588.88891" y="28.50265" x="105.28048" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <text transform="matrix(1.7472350040253093,0,0,1.5518699791579416,402.036621947266,226.258273232397) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="-89.21839" x="-10.42181" stroke-width="0" fill="#000000">Where</text>
+   </g>
+   <rect height="266.66668" width="377.77779" y="61.83598" x="918.24348" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>
